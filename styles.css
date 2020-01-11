@@ -1,0 +1,48 @@
+
+html {
+    background-image: url('https://static.toiimg.com/photo/60387019/.jpg');
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+#name {
+
+    color: white;
+    font-size: 250%;
+    
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+
+#picture {
+    border-radius: 100%;
+    width: 350px;
+    height: 350px;
+
+    position: relative;
+    top: -280px;
+    left: 50px;
+}
+
+#introduction {
+    position: relative;
+    top: 100px;
+    left: 500px;
+
+    font-size: 30px;
+    color: white
+}
+
+#icons {
+    position: relative;
+    top: 130px;
+    left: 600px;
+    
+}
+
+#icons a img{
+    border-radius: 10px;
+    margin-right:10px;
+}
